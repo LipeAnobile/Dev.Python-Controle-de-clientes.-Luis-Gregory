@@ -1,4 +1,4 @@
-1. Gregório Gustavo Nicoletti Ribeiro RA: 202302382169, Luis Felipe Anobile RA: 202302529984 e Gustavo Pietragalla Segato 201951150295 .
+1. Gregory Gustavo Nicoletti Ribeiro RA: 202302382169, Luis Felipe Anobile RA: 202302529984 e Gustavo Pietragalla Segato 201951150295 .
 2. Orientações detalhadas sobre o projeto, incluindo:
 
  Funcionalidades Principais do Sistema de Controle de Clientes
