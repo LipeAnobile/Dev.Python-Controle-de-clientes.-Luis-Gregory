@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EcoGardens - Deletar Manutenção</title>
+    <link rel="stylesheet" href="../static/index.css" />
+  </head>
+  <body>
+    <header>
+      <h1>EcoGardens</h1>
+      <nav>
+        <ul>
+          <li><a href="/">Página Inicial</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="delete">
+        <h2>Deletar Manutenção</h2>
+        <p>Você tem certeza que deseja deletar esta manutenção?</p>
+        <form action="/delete/{{ maintenance_id }}" method="POST">
+          <button type="submit">Confirmar Deleção</button>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2024 EcoGardens. Todos os direitos reservados.</p>
+    </footer>
